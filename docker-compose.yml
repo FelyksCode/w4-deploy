@@ -6,4 +6,4 @@ services:
         STUDENT_NAME: "Felix Ivander"
         STUDENT_NIM: "00000070040"
     ports:
-       - "3000:3000"
+       - "80:3000"
